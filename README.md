@@ -12,8 +12,7 @@ O **Armazém Raiz** é um sistema de catálogo digital para depósito de materia
 
 ## 🌐 Link para acessar
 
-https://lguilherme-7.github.io/armazemRaiz/
-
+https://lguilherme-7.github.io/ArmazemRaiz/
 ---
 
 ## ✨ Funcionalidades
